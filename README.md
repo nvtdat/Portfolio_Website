@@ -10,3 +10,6 @@
 - `Caddyfile`: server configuration
 - `index.html`, `projects.html`, `articles.html`, `contact.html`: website pages
 - `screenshots/`: evidence that the site is hosted successfully
+
+## Public Website Hosting
+  Our Portolio Website is live at: https://nvtdat.github.io/Portfolio_Website/
